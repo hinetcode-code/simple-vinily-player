@@ -27,4 +27,3 @@ el APK queda en `app/build/outputs/apk/debug/app-debug.apk`.
 - Desliza desde el borde derecho (o toca la barrita) para abrir la biblioteca.
 - Ordenar por **Artista** muestra solo artistas; al tocar uno aparecen sus álbumes.
 - Mantén pulsado un álbum o artista: buscar carátula y datos, o elegir una carátula del móvil.
-# simple-vinily-player
